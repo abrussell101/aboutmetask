@@ -1,8 +1,43 @@
+
+
 body{
-    background-color: blueviolet;
+    background-color: #392061;
     font-style: normal;
 }
+
+
 h1{
-    color: #f00;
-    font-style: italic;
+    color: #F0F2A6;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2rem;
+    text-align: center;
+
+}
+
+header {text-align: center;
+background-color: #AA6373;
+height: 12.5em;
+}
+
+.profilepicture {
+    float: left;
+}
+
+.about {padding-top: 3rem;
+    font-size: 6em;
+    font-style: normal;
+}
+
+article {font-family: 'Roboto , sans-sarif';}
+
+p {font-family:'Roboto', sans-serif;
+    color: #F0F2A6;
+    font-size: 1.1rem;
+
+}
+
+ul {color: #F0F2A6;
+font-size: 1.1rem;
+font-family: 'Roboto', sans-serif;
+
 }
