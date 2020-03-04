@@ -21,6 +21,7 @@ height: 12.5em;
 
 .profilepicture {
     float: left;
+    width: 12.5rem;
 }
 
 .about {padding-top: 3rem;
@@ -40,4 +41,27 @@ ul {color: #F0F2A6;
 font-size: 1.1rem;
 font-family: 'Roboto', sans-serif;
 
+}
+/* .first2 {background-color: #AA6373;
+width: 25%;
+
+}
+
+.second2 {background-color: #AA6373;
+width: 25%;
+position: relative;;
+} */
+
+section {
+    float: left;
+    width: 20%;
+    background-color: #AA6373;
+    height: 20rem;
+}
+
+img {width: 150px;}
+
+.bb3 {width: 160px;
+height: 240px;
+margin-top: -16px;
 }
