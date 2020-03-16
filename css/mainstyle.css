@@ -65,3 +65,20 @@ img {width: 150px;}
 height: 240px;
 margin-top: -16px;
 }
+
+@media all and (max-width: 500px) {
+    header, section {
+        float: none;
+        width: auto;
+    }
+    img {display: none;}
+    .about {
+        font-size: 2em;
+    }
+}
+
+@media all and (max-width: 630px) and (min-width: 500px) {
+    .about {
+        font-size: 2em;
+    }
+}
